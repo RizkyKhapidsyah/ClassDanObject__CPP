@@ -125,6 +125,11 @@
   <ItemGroup>
     <ClCompile Include="..\..\..\..\..\Rizky Hafitsyah%27s Documents\#LATIHAN\Pemrograman\C++\ClassDanObject__CPP\Source.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\..\Rizky Hafitsyah%27s Documents\#LATIHAN\Pemrograman\C++\ClassDanObject__CPP\results\001.PNG" />
+    <Image Include="..\..\..\..\..\Rizky Hafitsyah%27s Documents\#LATIHAN\Pemrograman\C++\ClassDanObject__CPP\results\002.PNG" />
+    <Image Include="..\..\..\..\..\Rizky Hafitsyah%27s Documents\#LATIHAN\Pemrograman\C++\ClassDanObject__CPP\results\003.PNG" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

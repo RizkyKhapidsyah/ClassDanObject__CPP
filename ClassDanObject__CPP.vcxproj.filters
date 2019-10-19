@@ -13,10 +13,24 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="results">
+      <UniqueIdentifier>{a535b480-e61e-4d59-b1be-88267332ae73}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\..\..\Rizky Hafitsyah%27s Documents\#LATIHAN\Pemrograman\C++\ClassDanObject__CPP\Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\..\Rizky Hafitsyah%27s Documents\#LATIHAN\Pemrograman\C++\ClassDanObject__CPP\results\001.PNG">
+      <Filter>results</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Rizky Hafitsyah%27s Documents\#LATIHAN\Pemrograman\C++\ClassDanObject__CPP\results\002.PNG">
+      <Filter>results</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Rizky Hafitsyah%27s Documents\#LATIHAN\Pemrograman\C++\ClassDanObject__CPP\results\003.PNG">
+      <Filter>results</Filter>
+    </Image>
   </ItemGroup>
 </Project>
